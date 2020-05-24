@@ -140,7 +140,7 @@ a{
 /* Footer */
 
 footer{
-    background-color: hsl(201, 11%, 66%);
+    background-color: #fafafa;
     color: hsl(210, 10%, 33%);
     /* border: 1px solid black; */
     padding: 2rem 0;
